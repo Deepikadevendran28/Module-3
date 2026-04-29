@@ -11,18 +11,18 @@ To write a Python program that calculates the **sum of all elements** in a list.
 ## 🧾 Program
 
 
-items=[153,147,124,102]
-print(sum(items))
+<img width="240" height="116" alt="image" src="https://github.com/user-attachments/assets/de2c6e0d-42ea-4cdf-b2f8-b26b23ace6cb" />
 
 
 ## Output
 
+<img width="268" height="150" alt="image" src="https://github.com/user-attachments/assets/391e64e1-ab0c-4d03-95a9-d56de0e28dcf" />
 
-<img width="271" height="159" alt="image" src="https://github.com/user-attachments/assets/d874c5bc-f0ef-4055-bc74-adf7898d195e" />
 
 
 ## Result
 
-Thus the program executed successfully.
+Thus a Python program that calculates the sum of all elements in a list is created.
+
 
 
